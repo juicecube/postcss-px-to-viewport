@@ -1,0 +1,7 @@
+.idea
+.gitignore
+npm-debug.log*
+node_modules
+spec
+package-lock.json
+example
